@@ -1,0 +1,3 @@
+Region;LonMin;LonMax;LatMin;LatMax;ZoomLevel;StyleName;StyleID;CustomTileset;Folder;GoogleTiles
+ExampleOutdoors;8.460907;8.712447;47.263396;47.406200;13;outdoors;outdoors-v11;False;maps;False
+ExampleSatellite;4.673297;4.727381;50.855468;50.892406;15;satellite;satellite;False;maps;True
